@@ -1,0 +1,8 @@
+name: Anti Freecam
+version: '${project.version}'
+main: com.justinmtech.antifreecam.AntiFreecam
+api-version: 1.18
+prefix: AntiFreecam
+authors: [ justinmtech ]
+description: Prevent freecamming.
+website: https://justinmtech.com
